@@ -8,9 +8,9 @@ import Car from "../assets/Car.png";
 import Fanta from "../assets/fanta.png";
 import Todo from "../assets/todo.png";
 import Youtube from "../assets/youtube.png";
-import DesignYas from "../assets/DesignYas.png";
-import Resaka from "../assets/Resaka.png";
-import Lyrics from "../assets/Lyrics.png";
+import DesignYas from "../assets/DesignYas.PNG";
+import Resaka from "../assets/Resaka.PNG";
+import Lyrics from "../assets/Lyrics.PNG";
 
 const Project = () => {
   const [ref, inView] = useInView<HTMLDivElement>();
